@@ -2,11 +2,12 @@
 ---
 > I will continue to think about how to proceed with the short coding study and add it.
 
-- This document also includes implementations of mathematical formulas and algorithms.
+- This document also includes implementations of mathematical formulas and algorithms..
 
 
 
 > Processing speed is based on the following development environment.
+
 laptop
 1. GPU 1660TI
 2. 16GB RAM
