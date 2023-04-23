@@ -1,5 +1,5 @@
 # short_code-study-with-python
----
+
 > I will continue to think about how to proceed with the short coding study and add it..
 ---
 - This document also includes implementations of mathematical formulas and algorithms..
