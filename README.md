@@ -5,7 +5,7 @@
 - This document also includes implementations of mathematical formulas and algorithms..
 
 
-
+'''
 > Processing speed is based on the following development environment.
 ---
 laptop
