@@ -18,4 +18,4 @@ desktop
 2. 16GB RAM
 3. i5
 ..
-.
+..
