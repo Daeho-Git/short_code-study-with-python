@@ -17,4 +17,4 @@ desktop
 1. GPU 1660 super
 2. 16GB RAM
 3. i5
-.
+..
