@@ -1,4 +1,4 @@
-##collections라이브러리 deque활용
+## collections라이브러리 deque활용
   
 Python에서 deque는 "double-ended queue"의 줄임말로, 양쪽 끝에서 삽입과 삭제가 모두 가능한 자료구조를 말합니다. 이는 collections 모듈에 포함되어 있습니다.
 deque는 효율적인 메모리 사용과 빠른 연산 속도를 제공하기 때문에, 큐(queue)나 스택(stack)을 필요로 하는 알고리즘 문제를 해결할 때 많이 사용됩니다.
