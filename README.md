@@ -11,11 +11,9 @@
 laptop
 1. GPU 1660TI
 2. 16GB RAM
-3. i7 - 8750H
+3. i7 - 9750H
 
 desktop
-1. GPU 1660 super
+1. GPU 3070ti
 2. 16GB RAM
-3. i5
-..
-.
+3. Radeon 5600x
